@@ -5,6 +5,27 @@ display: flex;
 
 }
 
-p {
-    flex: 1;
+.about {
+   border-bottom: dashed;
+   line-height: 1.25;
+   margin-top: 75px;
+   margin: bottom 0px;
+   border-bottom: 0%;
+   width: 500px;
+
+   
 }
+
+.abparagraphs {
+    border-style: solid; 
+    margin-top: 10px;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 0%;
+    background-color: gray;
+    text-align: left;
+    text-indent: 2em  ;
+
+}
+
+
