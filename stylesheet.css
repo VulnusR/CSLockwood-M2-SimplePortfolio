@@ -1,7 +1,29 @@
-.containerheader {
+.mainheader {
+background-color:black;
+color: gold;
+margin: 0%;
+border: 0%;
+}
+
+
+.containerheader { 
     
-margin-top: 15px;
+margin-top: 0px;
 display: flex;
+font-weight: 900;
+background-color: grey;
+}
+
+.cslpfp {
+
+   border-radius: 50%;
+   border-style: solid;
+   border-color: gold;
+}
+
+p {
+    flex:1
+
 
 }
 
