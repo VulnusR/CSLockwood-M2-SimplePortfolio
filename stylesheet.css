@@ -1,24 +1,47 @@
 .mainheader {
-background-color:black;
-color: gold;
-margin: 0%;
-border: 0%;
-}
 
-
-.containerheader { 
-    
-margin-top: 0px;
-display: flex;
-font-weight: 900;
-background-color: grey;
+  background-color:black;
+  color: gold;
+  margin: 0%;
+  border: 0%;
 }
 
 .cslpfp {
 
-   border-radius: 50%;
-   border-style: solid;
-   border-color: gold;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: gold;
+ }
+
+ .containerheader { 
+
+    padding-top: 5px;
+    padding-bottom: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 900;
+    background-color: grey;
+}
+  
+.portfolio-btn {
+  
+      font-family: 'Times New Roman', Times, serif;
+      font-weight: 900;
+      background-color: purple;
+}
+
+  .contact-btn {
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    background-color: purple;
+}
+
+.github-btn {
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    background-color: purple;
 }
 
 p {
