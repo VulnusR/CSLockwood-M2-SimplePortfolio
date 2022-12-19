@@ -28,6 +28,8 @@
       font-family: 'Times New Roman', Times, serif;
       font-weight: 900;
       background-color: purple;
+      padding: 12px;
+    
 }
 
   .contact-btn {
@@ -35,6 +37,7 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     background-color: purple;
+    padding: 12px;
 }
 
 .github-btn {
@@ -42,7 +45,17 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: 900;
     background-color: purple;
+    padding: 12px;
 }
+
+.about-btn {
+  
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    background-color: purple;
+    padding: 12px;
+}
+
 
 p {
     flex:1
