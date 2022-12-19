@@ -82,8 +82,50 @@ p {
     margin-bottom: 0%;
     background-color: gray;
     text-align: left;
-    text-indent: 2em  ;
+    text-indent: 2em;
 
 }
 
+.projectList {
+    
+    border-style: solid; 
+    background-color: gray;
+    text-align: left;
+    text-indent: 2em; 
+    padding-bottom: 15px;
+    margin-bottom: 5000px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.movieFinderParent {
+    border-style: solid; 
+    background-color: gray;
+    text-align: left;
+    text-indent: 2em;
+    display: flex;
+    
+}
+
+.MovFinderTitle {
+align-self center: 
+
+}
+
+.movFinderIMG {
+   flex: left;
+   
+   border-right-color: black;
+    
+}
+
+.movFinderTxt {
+    
+    
+    
+
+}
+ 
 
