@@ -82,8 +82,57 @@ p {
     margin-bottom: 0%;
     background-color: gray;
     text-align: left;
-    text-indent: 2em  ;
+    text-indent: 2em;
 
 }
 
+.projectList {
+    
+    border-style: solid; 
+    background-color: gray;
+    text-align: left;
+    text-indent: 0em; 
+    padding-bottom: 15px;
+    margin-bottom: 500px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+nav a {
+
+    text-decoration: none;
+}
+
+.movieFinderParent {
+    border-style: solid; 
+    background-color: gray;
+    text-align: left;
+    display: flex;
+    
+}
+
+.MovFinderTitle {
+    align-self: center;
+
+}
+
+.movFinderIMG {
+   flex: left;
+   border-right: 4px;
+   border-right-style: solid;
+   border-right-color: black;
+   flex:none;
+    
+}
+
+.movFinderTxt {
+    
+    align-items: center;
+    
+    
+
+}
+ 
 
