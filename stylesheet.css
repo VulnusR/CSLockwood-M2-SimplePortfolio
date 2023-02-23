@@ -4,7 +4,6 @@ body {
   justify-content: center;
   align-items: center;
   margin: 0;
-  padding: 0;
   background-color: blue;
 }
 
@@ -17,11 +16,11 @@ header {
 
   background-color:black;
   color: gold;
-  
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding-bottom: 12px;
 }
 
 .cslpfp {
@@ -41,56 +40,38 @@ header {
     background-color: grey;
 }
   
-.portfolio-btn {
-  
-      font-family: 'Times New Roman', Times, serif;
+
+
+.header-btn {
+
+     font-family: 'Times New Roman', Times, serif;
       font-weight: 900;
       background-color: purple;
       padding: 12px;
+}
+
+
+
+
+main {
+    text-align: center;
+    width: 100%;
+}
+
+
+.about {
+  
+    display: inline-block;
+  width: 55%;
+  margin-bottom: 25px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50% / -50%;
+  border-bottom: 2px dashed;
     
 }
 
-  .contact-btn {
-  
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900;
-    background-color: purple;
-    padding: 12px;
-}
 
-.github-btn {
-  
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900;
-    background-color: purple;
-    padding: 12px;
-}
-
-.about-btn {
-  
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900;
-    background-color: purple;
-    padding: 12px;
-}
-
-
-p {
-    flex:1
-
-
-}
-
-.about {
-   border-bottom: dashed;
-   line-height: 1.25;
-   margin-top: 75px;
-   margin: bottom 0px;
-   border-bottom: 0%;
-   width: 500px;
-
-   
-}
 
 .abparagraphs {
     border-style: solid; 
