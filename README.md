@@ -33,7 +33,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ### Links
 
-Deployed Application: https://vulnusr.github.io/CSLockwood-M2-SimplePortfolio/public/portfolio.html#RandompassIMG
+Deployed Application:<br>
+https://vulnusr.github.io/CSLockwood-M2-SimplePortfolio/public/portfolio.html#RandompassIMG
 
 
 ### Screenshot
