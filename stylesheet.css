@@ -88,6 +88,7 @@ main {
 }
 
 .projectList {
+    
     height: fit-content;
     width: 35%;
 
@@ -101,6 +102,12 @@ main {
 
     
     
+}
+
+#projlistnav {
+    display:flex;
+    flex-direction: column;
+
 }
 
 .projectList > h3 {
