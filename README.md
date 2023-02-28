@@ -38,7 +38,7 @@ Deployed Application:
 
 ### Screenshot
 
-![Screen Shot of the Module 2 project a portfolio homepage](./assets/images/CalSS.png "Module 2 homepage")
+![Screen Shot of the Module 2 project a portfolio homepage](./assets/Images/READMEss.png "Module 2 homepage")
 
 ### Contact
 
