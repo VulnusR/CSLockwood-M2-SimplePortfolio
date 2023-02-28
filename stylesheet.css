@@ -123,32 +123,67 @@ nav a {
     text-decoration: none;
 }
 
+#mainportfolioparent {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: brown;
+}
 
 #largeprojectbox {
     width: 75%;
     
 }
 
+#CodeRefactorIMG {
+    width: 100%;
+    height: 100%;
+    border-style: solid;
+    border-color: black;
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+}
+
+#projectrowsparent {
+   width:75%;
+   height: fit-content;
+   display: flex;
+   flex-direction: column;
+   background-color: aquamarine;
+
+}
+
 .dualprojects {
+    display: flex;
+    flex-direction: row;
     margin-top: 2%;
-display: flex;
-justify-content: space-between;
-width: 75%;
-
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
+    
 }
 
-.spacer {
-    width: 50%;
-    background-color: inherit;
+.projectbox {
+    width: 45%;
+    height: 250px;
+    border-style: solid;
+    border-color: rgb(255, 247, 0);
+    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
 }
+
+
 
 
 .projectIMG {
-    border-style: solid;
-    border-color: black;
+    
     height: 100%;
     width: 100%;
-    box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.5);
+    
     
 }
 
